@@ -19,7 +19,8 @@ I'm Jithin Vinod, a Software Engineer with expertise in full stack development, 
 
 ## Jithin Vinod's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinvinod72&show_icons=true&theme=radical)
+![Jithin Vinod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinvinod72&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
 
 ## Most Used Languages
 
