@@ -1,25 +1,18 @@
+# Hi there 👋, Welcome to my Github page!
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+I'm Jithin Vinod, a Software Engineer with expertise in full stack development, AI, and backend engineering.
 
-<div size='20px'> Hi! My name is Jithin. :smile: 
-</div>
+- 🔭 Check out my GitHub repositories on [System Design](#), [AI Projects](#), [Full Stack Development](#), and [Backend Engineering](#).
+- 📝 Join my free [Newsletter](#) and get exclusive insights on tech and software engineering.
+- 📹 Check out my [YouTube Channel](#) for in-depth tutorials and tech discussions.
+- 💼 Follow me on [LinkedIn](https://www.linkedin.com/in/jithinvinod/) and [X](#) to stay updated.
 
-<h2>Check out https://writecv.io/</h2>
+![Profile views](https://komarev.com/ghpvc/?username=jithinvinod72&label=Profile%20views&color=0e75b6&style=flat)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/jithinvinod'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/JithinVinod3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+## Jithin Vinod's GitHub Stats
 
-<br>
-<br>
-  <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinvinod72&show_icons=true&theme=radical)
 
-<br>
+## Most Used Languages
 
-
-<!---
-jithinvinod72/jithinvinod72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinvinod72&layout=compact&theme=radical)
