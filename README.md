@@ -10,7 +10,7 @@ I'm Jithin Vinod, a Software Engineer with expertise in full stack development, 
 - ⚡ Developed impactful projects, including an **AI-powered resume analysis feature** and a **cloud-based healthcare platform**, improving efficiency and user satisfaction.
 
 - 📹 **Watch my projects** in action:
-  - **FitFeed - AI Meal Plan Recommender**: [Watch here](https://youtu.be/pcu1voHv_44?si=DmCMPUIC8t9xHW0c)
+  - **FitFeed - AI Meal Plan Recommender**: [Watch here](https://youtu.be/li3KmSlb3P0?si=L1szmYW6xs07MUAB)
   - **Hello Mind**: [Watch here](https://youtu.be/pcu1voHv_44?si=DmCMPUIC8t9xHW0c)
   - **writecv - AI Resume Writer**: [Website](https://writecv.io/)
   - **Ailly - AI Dental Ofiice**: [Website](https://www.ailly.dental/en/home)
