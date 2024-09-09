@@ -17,8 +17,6 @@ I'm Jithin Vinod, a Software Engineer with expertise in full stack development, 
 
 - 💼 Follow me on [LinkedIn](https://www.linkedin.com/in/jithinvinod/) to stay updated.
 
-![Profile views](https://komarev.com/ghpvc/?username=jithinvinod72&label=Profile%20views&color=0e75b6&style=flat)
-
 ## Jithin Vinod's GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinvinod72&show_icons=true&theme=radical)
